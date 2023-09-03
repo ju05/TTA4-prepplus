@@ -1,1 +1,2 @@
-
+Which command should you use to initialize a new git repository?
+- git init
